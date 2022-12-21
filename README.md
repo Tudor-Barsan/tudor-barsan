@@ -10,7 +10,7 @@ I'm also a 2022 Schulich Leader, receiving Canada's largest and most prestigious
 
 ## Interests 💡
 Full-Stack Development  
-Competitive Programming 
+Competitive Programming   
 Discrete Mathematics
 
 ### Currently Learning 🧠
