@@ -1,9 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Tudor-Barsan/tudor-barsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi 👋
+I'm an undergrad engineering student @ the University of Waterloo
+Interests 💡
+Math and Computer Science
+Competitive Programming
+Currently Learning:
+Neural Networks
+Statistics
+About me:
+Into basketball and sneakers
+Enjoy boxing, muay thai, bjj
+Big car/motorcyclist
+Feel free to reach out! Currently working in full-stack development
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
