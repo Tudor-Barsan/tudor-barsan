@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<p align="center">Hi</p>
 Hi 👋
 I'm an undergrad engineering student @ the University of Waterloo
 Interests 💡
