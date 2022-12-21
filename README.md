@@ -1,6 +1,6 @@
 
 
-<h1 align="center"># Hi there 👋</h1>
+<h1 align="center">Hey! Im Tudor 👋</h1>
 Hi 👋
 I'm an undergrad engineering student @ the University of Waterloo
 Interests 💡
