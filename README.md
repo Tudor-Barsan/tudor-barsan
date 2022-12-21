@@ -6,7 +6,7 @@ I'm an aspiring developer with a strong passion for creation 🖥️
 
 I'm a Computer Science Student @ the University of Waterloo 🦆
 
-I'm also a 2022 Schulich Leader, receiving Canada's largest and most prestigious national scholarship 🦁  
+I'm a 2022 Schulich Leader, receiving Canada's largest and most prestigious national scholarship 🦁  
 
 ## Interests 💡
 * Full-Stack Development     
