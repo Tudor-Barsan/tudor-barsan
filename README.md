@@ -13,12 +13,12 @@ I'm also a 2022 Schulich Leader, receiving Canada's largest and most prestigious
 * Competitive Programming      
 * Discrete Mathematics
 
-### Currently Learning 🧠
+## Currently Learning 🧠
 * Data Structures and Algorithms  
 * MERN Stack    
 * Machine Learning  
 
-### Hobbies 
+## Hobbies 
 * Anything Sports   
 * Non-Fiction Books   
 * Studying Philospohy   
