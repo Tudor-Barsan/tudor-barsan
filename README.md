@@ -14,18 +14,14 @@ Competitive Programming
 Discrete Mathematics
 
 ### Currently Learning 🧠
-Data Structures and Algorithms
-
-MERN Stack
-
-Machine Learning
+Data Structures and Algorithms  
+MERN Stack    
+Machine Learning  
 
 ### Hobbies 
-Anything Sports
-
-Non-Fiction Books
-
-Studying Philospohy
+Anything Sports   
+Non-Fiction Books   
+Studying Philospohy   
 
 
 #### 📫 Linkedin: www.linkedin.com/in/tudor-barsan 
