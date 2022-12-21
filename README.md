@@ -9,9 +9,7 @@ I'm a Computer Science Student @ the University of Waterloo 🦆
 I'm also a 2022 Schulich Leader, receiving Canada's largest and most prestigious national scholarship 🦁  
 
 ## Interests 💡
-Full-Stack Development  
-Competitive Programming   
-Discrete Mathematics
+Full-Stack Development        Competitive Programming         Discrete Mathematics
 
 ### Currently Learning 🧠
 Data Structures and Algorithms
