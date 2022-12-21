@@ -1,26 +1,23 @@
 
 
-<h1 align="center">Hey! Im Tudor 👋</h1>
-Hi 👋
-I'm an undergrad engineering student @ the University of Waterloo
-Interests 💡
-Math and Computer Science
-Competitive Programming
-Currently Learning:
-Neural Networks
-Statistics
-About me:
-Into basketball and sneakers
-Enjoy boxing, muay thai, bjj
-Big car/motorcyclist
-Feel free to reach out! Currently working in full-stack development
+<h1 align="center">Hey! I'm Tudor 👋</h1>
+I'm an aspiring developer with a strong passion for creation 🖥️
+I'm a Computer Science Student @ the University of Waterloo 🦆
+I'm also a 2022 Schulich Leader, receiving Canada's largest and most prestigious national scholarship 🦁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests 💡
+Full-Stack Development
+Competitive Programming
+Discrete Mathematics
+
+### Currently Learning 🧠
+Data Structures and Algorithms
+MERN Stack
+Machine Learning
+
+### Hobbies 
+Anything Sports
+Non-Fiction Books
+Studying Philospohy
+
+📫 Linkedin: www.linkedin.com/in/tudor-barsan 
