@@ -21,7 +21,7 @@ I'm a 2022 Schulich Leader, receiving Canada's largest and most prestigious nati
 ## Hobbies/Interests
 * Anything Sports   
 * Non-Fiction Books   
-* Philospohy   
+* Philosophy 
 
 
 #### 📫 Linkedin: www.linkedin.com/in/tudor-barsan 
