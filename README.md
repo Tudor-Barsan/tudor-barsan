@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey! I'm Tudor 👋</h1>
 
-I'm an aspiring developer with a strong passion for creation 🖥️
+I'm a Software Engineer with a strong passion for creation 🖥️
 
 I'm a Computer Science Student @ the University of Waterloo 🦆
 
