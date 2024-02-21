@@ -18,7 +18,7 @@ I'm a 2022 Schulich Leader, receiving Canada's largest and most prestigious nati
 * MERN Stack    
 * Machine Learning  
 
-## Hobbies/Interests
+## Hobbies
 * Anything Sports   
 * Non-Fiction Books   
 * Philosophy 
