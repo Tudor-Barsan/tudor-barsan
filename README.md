@@ -13,7 +13,7 @@ I'm a Schulich Leader, receiving Canada's largest national scholarship 🦁
 * Competitive Programming      
 * Discrete Mathematics
 
-## Hobbies
+## Hobbies 👀
 * Anything Sports   
 * Non-Fiction Books   
 * Philosophy 
